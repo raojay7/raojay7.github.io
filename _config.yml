@@ -12,7 +12,7 @@ baseurl: ""
 # SNS settings
 RSS: false
 #weibo_username:     huxpro
-zhihu_username:     raojay7
+zhihu_username:     rj7
 github_username:    raojay7
 twitter_username:  raojay7
 #facebook_username:  huxpro
