@@ -3,27 +3,28 @@
   <channel>
     <title>RaoJay7 Blog</title>
     <description>cool blog</description>
-    <link>http://raojay7.me/</link>
-    <atom:link href="http://raojay7.me/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 14 Mar 2017 14:46:44 +0800</pubDate>
-    <lastBuildDate>Tue, 14 Mar 2017 14:46:44 +0800</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 11 Sep 2017 08:30:37 +0800</pubDate>
+    <lastBuildDate>Mon, 11 Sep 2017 08:30:37 +0800</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
     
       <item>
         <title>mysql的查询</title>
-        <description>&lt;h2 id=&quot;section&quot;&gt;基本查询&lt;/h2&gt;
+        <description>&lt;h1 id=&quot;section&quot;&gt;基本查询&lt;/h1&gt;
 &lt;p&gt;基本构成：&lt;br /&gt;
 &lt;code class=&quot;highlighter-rouge&quot;&gt;
 select子句	//要查询的内容选择哪些列;如:select */selcet username	
-&lt;/code&gt;
-&amp;lt;/br&amp;gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;from子句		//指定数据表，写表名;如:from user &lt;/code&gt;&lt;br /&gt;
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;from子句		//指定数据表，写表名;如:from user &lt;/code&gt;&lt;br /&gt;
 &lt;code class=&quot;highlighter-rouge&quot;&gt;where子句	//查询时行必须满足的条件;如:where id=3&lt;/code&gt;  &lt;br /&gt;
 &lt;code class=&quot;highlighter-rouge&quot;&gt;group by子句	//对结果进行分组;如:group by sex&lt;/code&gt;&lt;br /&gt;
 &lt;code class=&quot;highlighter-rouge&quot;&gt;order by 子句//对结果进行排序;如:order by date&lt;/code&gt;&lt;br /&gt;
 &lt;code class=&quot;highlighter-rouge&quot;&gt;having子句	//查询时满足的第二条件&lt;/code&gt;&lt;br /&gt;
 &lt;code class=&quot;highlighter-rouge&quot;&gt;limit 子句 	//限定输出的查询结果;如:limit 3就显示3条数据&lt;/code&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;单表查询&lt;/h2&gt;
+&lt;h1 id=&quot;section-1&quot;&gt;单表查询&lt;/h1&gt;
 
 &lt;ol&gt;
   &lt;li&gt;select * from 表名，查询表中的所有字段&lt;/li&gt;
@@ -46,7 +47,7 @@ select子句	//要查询的内容选择哪些列;如:select */selcet username
 &amp;lt;/br&amp;gt;2.可以与group_concat()函数一起使用，可以将每个组中的所有字段值都显示出来
 &amp;lt;/br&amp;gt;3.按多个字段分组&lt;/li&gt;
   &lt;li&gt;可以用limit关键字限制查询结果的数量
-## 聚合函数查询 ##&lt;/li&gt;
+# 聚合函数查询&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;COUNT()对于&lt;em&gt;以外的任何参数，如1，返回所选集合中非null值的行的数目；对于&lt;/em&gt;，返回选择集合中的所有行的数目，包括null值的行，没有where的子句的count（*）是经过优化的，能够快速地返回表中所有的记录总数 &amp;lt;/br&amp;gt;&lt;/p&gt;
@@ -59,7 +60,7 @@ select子句	//要查询的内容选择哪些列;如:select */selcet username
 
 &lt;p&gt;MIN()可以求出表中某个字段取值的最小值&lt;/p&gt;
 
-&lt;h2 id=&quot;section-2&quot;&gt;连接查询&lt;/h2&gt;
+&lt;h1 id=&quot;section-2&quot;&gt;连接查询&lt;/h1&gt;
 
 &lt;ol&gt;
   &lt;li&gt;内连接查询，如：where user.uid=orders.uid&lt;/li&gt;
@@ -70,7 +71,7 @@ select子句	//要查询的内容选择哪些列;如:select */selcet username
   &lt;li&gt;复合条件查询，就是将上面的查询综合&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h2 id=&quot;section-3&quot;&gt;子查询&lt;/h2&gt;
+&lt;h1 id=&quot;section-3&quot;&gt;子查询&lt;/h1&gt;
 &lt;p&gt;1一般的语法例子：
 &lt;code class=&quot;highlighter-rouge&quot;&gt;select *from user where uid in(select uid from orders)&lt;/code&gt;
 而且，子查询还可以带&lt;strong&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;比较运算符&lt;/code&gt;&lt;/strong&gt;,但是相对于连接查询可能会慢，因为他是从最内层的查询开始，然后从它开始向外向上移动到外层查询。&lt;/p&gt;
@@ -84,16 +85,16 @@ select子句	//要查询的内容选择哪些列;如:select */selcet username
 
 &lt;p&gt;4带all关键字的子查询，表示满足其中的所有条件&lt;/p&gt;
 
-&lt;h2 id=&quot;section-4&quot;&gt;正则表达式查询&lt;/h2&gt;
+&lt;h1 id=&quot;section-4&quot;&gt;正则表达式查询&lt;/h1&gt;
 &lt;p&gt;就是使用&lt;code class=&quot;highlighter-rouge&quot;&gt;字段名 regexp ‘匹配方式’&lt;/code&gt;来进行查询，更加灵活强大&lt;/p&gt;
 
-&lt;h2 id=&quot;section-5&quot;&gt;将查询结果合并&lt;/h2&gt;
+&lt;h1 id=&quot;section-5&quot;&gt;将查询结果合并&lt;/h1&gt;
 &lt;p&gt;使用union和union all来合并&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 13 Mar 2017 00:00:00 +0800</pubDate>
-        <link>http://raojay7.me/2017/03/13/mysql-note/</link>
-        <guid isPermaLink="true">http://raojay7.me/2017/03/13/mysql-note/</guid>
+        <link>http://localhost:4000/2017/03/13/mysql-note/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/03/13/mysql-note/</guid>
         
         <category>学习笔记</category>
         

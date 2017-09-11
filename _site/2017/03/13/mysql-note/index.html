@@ -12,7 +12,7 @@
 
     <title>mysql的查询 - 饶隽的博客 | RaoJay7 Blog</title>
 
-    <link rel="canonical" href="http://raojay7.me/2017/03/13/mysql-note/">
+    <link rel="canonical" href="http://localhost:4000/2017/03/13/mysql-note/">
 
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="/css/bootstrap.min.css">
@@ -168,19 +168,20 @@
                 col-md-10 col-md-offset-1
                 post-container">
 
-				<h2 id="section">基本查询</h2>
+				<h1 id="section">基本查询</h1>
 <p>基本构成：<br />
 <code class="highlighter-rouge">
 select子句	//要查询的内容选择哪些列;如:select */selcet username	
-</code>
-&lt;/br&gt;<code class="highlighter-rouge">from子句		//指定数据表，写表名;如:from user </code><br />
+</code></p>
+
+<p><code class="highlighter-rouge">from子句		//指定数据表，写表名;如:from user </code><br />
 <code class="highlighter-rouge">where子句	//查询时行必须满足的条件;如:where id=3</code>  <br />
 <code class="highlighter-rouge">group by子句	//对结果进行分组;如:group by sex</code><br />
 <code class="highlighter-rouge">order by 子句//对结果进行排序;如:order by date</code><br />
 <code class="highlighter-rouge">having子句	//查询时满足的第二条件</code><br />
 <code class="highlighter-rouge">limit 子句 	//限定输出的查询结果;如:limit 3就显示3条数据</code></p>
 
-<h2 id="section-1">单表查询</h2>
+<h1 id="section-1">单表查询</h1>
 
 <ol>
   <li>select * from 表名，查询表中的所有字段</li>
@@ -203,7 +204,7 @@ select子句	//要查询的内容选择哪些列;如:select */selcet username
 &lt;/br&gt;2.可以与group_concat()函数一起使用，可以将每个组中的所有字段值都显示出来
 &lt;/br&gt;3.按多个字段分组</li>
   <li>可以用limit关键字限制查询结果的数量
-## 聚合函数查询 ##</li>
+# 聚合函数查询</li>
 </ol>
 
 <p>COUNT()对于<em>以外的任何参数，如1，返回所选集合中非null值的行的数目；对于</em>，返回选择集合中的所有行的数目，包括null值的行，没有where的子句的count（*）是经过优化的，能够快速地返回表中所有的记录总数 &lt;/br&gt;</p>
@@ -216,7 +217,7 @@ select子句	//要查询的内容选择哪些列;如:select */selcet username
 
 <p>MIN()可以求出表中某个字段取值的最小值</p>
 
-<h2 id="section-2">连接查询</h2>
+<h1 id="section-2">连接查询</h1>
 
 <ol>
   <li>内连接查询，如：where user.uid=orders.uid</li>
@@ -227,7 +228,7 @@ select子句	//要查询的内容选择哪些列;如:select */selcet username
   <li>复合条件查询，就是将上面的查询综合</li>
 </ol>
 
-<h2 id="section-3">子查询</h2>
+<h1 id="section-3">子查询</h1>
 <p>1一般的语法例子：
 <code class="highlighter-rouge">select *from user where uid in(select uid from orders)</code>
 而且，子查询还可以带<strong><code class="highlighter-rouge">比较运算符</code></strong>,但是相对于连接查询可能会慢，因为他是从最内层的查询开始，然后从它开始向外向上移动到外层查询。</p>
@@ -241,10 +242,10 @@ select子句	//要查询的内容选择哪些列;如:select */selcet username
 
 <p>4带all关键字的子查询，表示满足其中的所有条件</p>
 
-<h2 id="section-4">正则表达式查询</h2>
+<h1 id="section-4">正则表达式查询</h1>
 <p>就是使用<code class="highlighter-rouge">字段名 regexp ‘匹配方式’</code>来进行查询，更加灵活强大</p>
 
-<h2 id="section-5">将查询结果合并</h2>
+<h1 id="section-5">将查询结果合并</h1>
 <p>使用union和union all来合并</p>
 
 
