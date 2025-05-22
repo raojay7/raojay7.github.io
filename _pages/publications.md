@@ -33,7 +33,7 @@ author_profile: true
 
 * Finetuning Language Models for Multimodal Question Answering<br>
   Xin Zhang, Wen Xie, Ziqi Dai, **Jun Rao**, Haokun Wen, Xuan Luo, Meishan Zhang, Min Zhang <br>
-  *in **MM 2023***
+  *in Proc. of **MM 2023***
 
 * Can Linguistic Knowledge Improve Multimodal Alignment in Vision-Language Pretraining?<br>
   Fei Wang, Liang Ding, **Jun Rao**, Ye Liu, Li Shen, Changxing Ding <br>
