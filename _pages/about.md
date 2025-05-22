@@ -66,6 +66,6 @@ As steps towards this goal, his research focuses on
   * Supervisor: Dr. [Lian Lian]()
 * 2024.01-2024.12: NLP Research Intern
   * [**JD EXPLORE ACADEMY, China**]()
-  * Main Work: Focus on multimodal models.
+  * Main Work: Focus on Multimodal Models.
   * Supervisor: Dr. [Liang Ding](https://scholar.google.com.hk/citations?hl=zh-CN&user=lFCLvOAAAAAJ&view_op=list_works&sortby=pubdate)
   
