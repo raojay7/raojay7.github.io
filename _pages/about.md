@@ -51,3 +51,18 @@ As steps towards this goal, his research focuses on
   **Jun Rao**, Fei Wang, Liang Ding, Shuhan Qi, Yibing Zhan, Weifeng Liu, Dacheng Tao
 
   *SIGIR 2022*
+  
+# Intership Experience
+* 2025.01-Now: NLP Research Intern
+  * [**Huawei Noah’s Ark Lab, China**]()
+  * Main Work: Focus on LLMs and Math Reasoning.
+  * Supervisor: Dr. [Xiaojun Meng](https://scholar.google.com.sg/citations?hl=en&user=t4n9MqkAAAAJ&view_op=list_works&sortby=pubdate)
+* 2024.01-2024.12: NLP Research Intern
+  * [**Huawei Cloud Computing Technologies Co., Ltd., China**]()
+  * Main Work: Focus on Specialist LLMs.
+  * Supervisor: Dr. [Lian Lian]()
+* 2024.01-2024.12: NLP Research Intern
+  * [**JD EXPLORE ACADEMY, China**]()
+  * Main Work: Focus on multimodal models.
+  * Supervisor: Dr. [Liang Ding](https://scholar.google.com.hk/citations?hl=zh-CN&user=lFCLvOAAAAAJ&view_op=list_works&sortby=pubdate)
+  
