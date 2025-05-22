@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Jun Rao is currently pursuing the Ph.D.degree in Harbin Institute of Technology, shenzhen.  
-He published several papers at top conferences and international journals, including ACL, EMNLP, SIGIR, MM, TMM, CIKM, and IPM.
-His long-term research goal is to build socially intelligent embodied agents with the ability to perceive and engage in \textbf{multimodal} human communication. 
+I am Jun Rao, a third-year Ph.D. candidate at the School of Computer Science and Technology, Harbin Institute of Technology (Shenzhen).
+I published several papers at top conferences and international journals, including ACL, EMNLP, SIGIR, MM, TMM, CIKM, and IPM.
+My long-term research goal is to build socially intelligent embodied agents with the ability to perceive and engage in \textbf{multimodal} human communication. 
 As steps towards this goal, his research focuses on 
 1) the fundamentals of \textbf{multimodal learning}, specifically the representation, translation, fusion, and alignment of heterogeneous data sources,
 2) human-centered \textbf{language, vision}, and their applications, 
