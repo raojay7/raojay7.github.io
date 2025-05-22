@@ -13,3 +13,41 @@ As steps towards this goal, his research focuses on
 1) the fundamentals of **multimodal learning**, specifically the representation, translation, fusion, and alignment of heterogeneous data sources,
 2) human-centered **language, vision**, and their applications, 
 3) the real-world deployment of **efficiency** involves both the amount of **computation** and **data** required for (pre-, post-)training and using **LLMs** models . 
+
+# Publications
+
+- APT: Improving Specialist LLM Performance with Weakness Case Acquisition and Iterative Preference Training
+  
+  **Jun Rao**, Zepeng Lin, Xuebo Liu, Lian Lian, Dong Jin, Shengjun Cheng, Jun Yu, and Min Zhang
+
+  *ACL 2025 Findings*
+- CommonIT: Commonality-Aware Instruction Tuning for Large Language Models via Data Partitions
+  
+  **Jun Rao**, Xuebo Liu, Lian Lian, Cheng Shengjun, Yunjie Liao, and Min Zhang
+
+  *EMNLP 2024*
+- Harnessing the Power of Prompt Experts: Efficient Knowledge Distillation for Enhanced Language Understanding
+  
+  Xv Meng*, **Jun Rao***, Shuhan Qi, Lei Wang, Jing Xiao, Xuan Wang
+
+  *PKDD-ECML 2024*
+- What is the limitation of multimodal llms? a deeper look into multimodal llms through prompt probing
+  
+  Shuhan Qi, Zhengying Cao, **Jun Rao***, Lei Wang, Jing Xiao, Xuan Wang
+  
+  *IPM 2023, Corresponding Author*
+- Parameter-efficient and student-friendly knowledge distillation
+  
+  **Jun Rao**, Xv Meng, Liang Ding, Shuhan Qi, Xuebo Liu, Min Zhang, Dacheng Tao
+  
+  *TMM 2023*
+- Dynamic contrastive distillation for image-text retrieval
+  
+  **Jun Rao**, Liang Ding, Shuhan Qi, Meng Fang, Yang Liu, Li Shen, Dacheng Tao
+
+  *TMM 2023*
+- Where Does the Performance Improvement Come From? -A Reproducibility Concern about Image-Text Retrieval
+
+  **Jun Rao**, Fei Wang, Liang Ding, Shuhan Qi, Yibing Zhan, Weifeng Liu, Dacheng Tao
+
+  *SIGIR 2022*
