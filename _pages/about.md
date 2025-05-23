@@ -74,6 +74,8 @@ As steps towards this goal, his research focuses on
   * [**JD EXPLORE ACADEMY, China**]()
   * Main Work: Focus on Multimodal Models.
   * Supervisor: Dr. [Liang Ding](https://scholar.google.com.hk/citations?hl=zh-CN&user=lFCLvOAAAAAJ&view_op=list_works&sortby=pubdate)
+
+
 # Personal information
 
 I like playing table tennis and I am an amateur table tennis player since 2008.
