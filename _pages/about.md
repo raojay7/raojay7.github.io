@@ -24,22 +24,14 @@ As steps towards this goal, his research focuses on
   **Jun Rao**, Zepeng Lin, Xuebo Liu, Lian Lian, Dong Jin, Shengjun Cheng, Jun Yu, and Min Zhang
 
   *ACL 2025 Findings*
-- Orchestrating Prompt Expertise: Enhancing Knowledge Distillation via Expert-Guided Tuning
 
-  Xv Meng*, **Jun Rao***, Shuhan Qi, Xuebo Liu, Lei Wang, Min Zhang, and Xuan Wang
-
-  *TALLIP 2025*
   
 - CommonIT: Commonality-Aware Instruction Tuning for Large Language Models via Data Partitions
   
   **Jun Rao**, Xuebo Liu, Lian Lian, Cheng Shengjun, Yunjie Liao, and Min Zhang
 
   *EMNLP 2024*
-- Harnessing the Power of Prompt Experts: Efficient Knowledge Distillation for Enhanced Language Understanding
-  
-  Xv Meng*, **Jun Rao***, Shuhan Qi, Lei Wang, Jing Xiao, Xuan Wang
 
-  *PKDD-ECML 2024*
 - What is the limitation of multimodal llms? a deeper look into multimodal llms through prompt probing
   
   Shuhan Qi, Zhengying Cao, **Jun Rao***, Lei Wang, Jing Xiao, Xuan Wang
