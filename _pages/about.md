@@ -15,7 +15,7 @@ As steps towards this goal, his research focuses on
    
 2) human-centered **language, vision**, and their applications,
  
-3) the real-world deployment of **efficiency** involves both the amount of **computation** and **data** required for (pre-, post-)training and using **LLMs** models. 
+3) the real-world deployment of **efficiency** involves both the amount of **computation** and **data** required for (pre-, post-)training and using **LLMs**. 
 
 # Publications
 
