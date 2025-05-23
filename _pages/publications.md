@@ -12,7 +12,10 @@ author_profile: true
 * APT: Improving Specialist LLM Performance with Weakness Case Acquisition and Iterative Preference Training       
   **Jun Rao**, Zepeng Lin, Xuebo Liu, Lian Lian, Dong Jin, Shengjun Cheng, Jun Yu, Min Zhang<br> 
   *in Proc. of **ACL 2025 (Findings)***   
-
+* Orchestrating Prompt Expertise: Enhancing Knowledge Distillation via Expert-Guided Tuning<br>
+  Xv Meng*, **Jun Rao***, Shuhan Qi, Xuebo Liu, Lei Wang, Min Zhang, Xuan Wang<br>
+  *in **TALLIP 2025***   
+  
 
 ## 2024
 
