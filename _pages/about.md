@@ -54,7 +54,7 @@ As steps towards this goal, my research focuses on
   *SIGIR 2022*
   
 # Intership Experience
-* 2025.01-Now: NLP Research Intern
+* 2025.01-2025.12: NLP Research Intern
   * [**Huawei Noah’s Ark Lab, China**]()
   * Main Work: Focus on LLMs and Math Reasoning.
   * Supervisor: Dr. [Xiaojun Meng](https://scholar.google.com.sg/citations?hl=en&user=t4n9MqkAAAAJ&view_op=list_works&sortby=pubdate)
