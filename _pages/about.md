@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Jun Rao, a third-year Ph.D. candidate at the School of Computer Science and Technology, Harbin Institute of Technology (Shenzhen).
+I am Jun Rao, a third-year Ph.D. candidate at the School of Computer Science and Technology, Harbin Institute of Technology (Shenzhen), co-advised by [Min Zhang](https://zhangmin-nlp-ai.github.io/) and [Xuebo Liu](https://sunbowliu.github.io/).
 I published several papers at top conferences and international journals, including ACL, EMNLP, SIGIR, MM, TMM, CIKM, and IPM. I have a **strong preference** for methods that are **simple, intuitve and fun**.
 My long-term research goal is to build socially intelligent embodied agents with the ability to perceive and engage in **multimodal** human communication. 
 As steps towards this goal, my research focuses on 
@@ -23,7 +23,7 @@ As steps towards this goal, my research focuses on
   
   **Jun Rao**, Zepeng Lin, Xuebo Liu, Lian Lian, Dong Jin, Shengjun Cheng, Jun Yu, and Min Zhang
 
-  *ACL 2025 Findings*
+  *ACL 2025*
 
   
 - CommonIT: Commonality-Aware Instruction Tuning for Large Language Models via Data Partitions
@@ -52,7 +52,9 @@ As steps towards this goal, my research focuses on
   **Jun Rao**, Fei Wang, Liang Ding, Shuhan Qi, Yibing Zhan, Weifeng Liu, Dacheng Tao
 
   *SIGIR 2022*
-  
+# Preprints
+- Exploring and Enhancing the Transfer of Distribution in Knowledge Distillation for Autoregressive Language Models. 2024.
+- Dynamic Sampling that Adapts: Iterative DPO for Self-Aware Mathematical Reasoning. 2025.
 # Intership Experience
 * 2025.01-2025.12: NLP Research Intern
   * [**Huawei Noah’s Ark Lab, China**]()
