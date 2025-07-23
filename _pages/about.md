@@ -23,7 +23,7 @@ As steps towards this goal, my research focuses on
   
   **Jun Rao**, Zepeng Lin, Xuebo Liu, Lian Lian, Dong Jin, Shengjun Cheng, Jun Yu, and Min Zhang
 
-  *ACL 2025*
+  *Findings of ACL 2025*
 
   
 - CommonIT: Commonality-Aware Instruction Tuning for Large Language Models via Data Partitions
