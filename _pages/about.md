@@ -52,6 +52,11 @@ As steps towards this goal, my research focuses on
   **Jun Rao**, Fei Wang, Liang Ding, Shuhan Qi, Yibing Zhan, Weifeng Liu, Dacheng Tao
 
   *SIGIR 2022*
+- Student can also be a good teacher: Extracting knowledge from vision-and-language model for cross-modal retrieval
+
+  **Jun Rao**, Tao Qian, Shuhan Qi, Yulin Wu, Qing Liao, Xuan Wang
+  
+  *CIKM 2021*
 # Preprints
 - Exploring and Enhancing the Transfer of Distribution in Knowledge Distillation for Autoregressive Language Models. 2024.
 - Dynamic Sampling that Adapts: Iterative DPO for Self-Aware Mathematical Reasoning. 2025.
