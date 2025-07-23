@@ -72,5 +72,5 @@ As steps towards this goal, my research focuses on
 
 # Personal information
 
-I like playing table tennis and I am an amateur table tennis player since 2008.
+I like playing table tennis. I have won the eighth place in the team of Guangdong Provincial Games for college students, the fourth place in the mixed doubles of Shenzhen District Competition, the fifth place in the Fifth Shenzhen Cup Amateur Open Competition, the 16th place in the singles and team of Shenzhen Municipal Games for the mass group, and the second place in the team of Huawei Table Tennis 2024.
   
