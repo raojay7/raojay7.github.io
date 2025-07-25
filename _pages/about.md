@@ -60,6 +60,12 @@ As steps towards this goal, my research focuses on
 # Preprints
 - Exploring and Enhancing the Transfer of Distribution in Knowledge Distillation for Autoregressive Language Models. 2024.
 - Dynamic Sampling that Adapts: Iterative DPO for Self-Aware Mathematical Reasoning. 2025.
+
+# Co-author Papers
+- Curriculum consistency learning for conditional sentence generation. EMNLP 2024. 
+- AQuilt: Weaving Logic and Self-Inspection into Low-Cost, High-Relevance Data Synthesis for Specialist LLMs. EMNLP 2025.
+- REA-RL: Reflection-Aware Online Reinforcement Learning for Efficient Large Reasoning Models. Arxiv 2025.
+  
 # Intership Experience
 * 2025.01-2025.12: NLP Research Intern
   * [**Huawei Noah’s Ark Lab, China**]()
