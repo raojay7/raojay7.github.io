@@ -58,11 +58,6 @@ As steps towards this goal, my research focuses on
   
   *CIKM 2021*
 
-# Supervised Published Papers
-- What is the limitation of multimodal llms? a deeper look into multimodal llms through prompt probing. IPM 2023.
-- Harnessing the Power of Prompt Experts: Efficient Knowledge Distillation for Enhanced Language Understanding. ECML-PKDD 2024.
-- MDIT-Bench: Evaluating the Dual-Implicit Toxicity in Large Multimodal Models. ACL 2025.
-
 # Preprints
 - Exploring and Enhancing the Transfer of Distribution in Knowledge Distillation for Autoregressive Language Models. 2024.
 - Dynamic Sampling that Adapts: Iterative DPO for Self-Aware Mathematical Reasoning. 2025.
