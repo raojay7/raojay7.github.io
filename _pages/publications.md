@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-(* indicates equal contribution)
+(# indicates equal contribution)
 
 ## 2025
 
@@ -13,7 +13,7 @@ author_profile: true
   **Jun Rao**, Zepeng Lin, Xuebo Liu, Lian Lian, Dong Jin, Shengjun Cheng, Jun Yu, Min Zhang<br> 
   *in Proc. of **ACL 2025 (Findings)***   
 * Orchestrating Prompt Expertise: Enhancing Knowledge Distillation via Expert-Guided Tuning<br>
-  Xv Meng*, **Jun Rao***, Shuhan Qi, Xuebo Liu, Lei Wang, Min Zhang, Xuan Wang<br>
+  Xv Meng#, **Jun Rao#**, Shuhan Qi, Xuebo Liu, Lei Wang, Min Zhang, Xuan Wang<br>
   *in **TALLIP 2025***   
   
 
@@ -25,7 +25,7 @@ author_profile: true
   *in Proc. of **EMNLP 2024***
 
 * Harnessing the Power of Prompt Experts: Efficient Knowledge Distillation for Enhanced Language Understanding  
-  Xv Meng*, **Jun Rao***, Shuhan Qi, Lei Wang, Jing Xiao, Xuan Wang <br>
+  Xv Meng#, **Jun Rao#**, Shuhan Qi, Lei Wang, Jing Xiao, Xuan Wang <br>
   *in Proc. of **ECML-PKDD 2024***
   
 * Curriculum Consistency Learning for Conditional Sentence Generation<br>
