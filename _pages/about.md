@@ -75,6 +75,8 @@ As steps towards this goal, my research focuses on
 - Evaluation
   - Where Does the Performance Improvement Come From? -A Reproducibility Concern about Image-Text Retrieval. [SIGIR 22, CCF A]
   - What is the limitation of multimodal llms? a deeper look into multimodal llms through prompt probing. [IPM 23, JCR Q1]
+  - Can Linguistic Knowledge Improve Multimodal Alignment in Vision-Language Pretraining? [ToMM 23, JCR Q1]
+  - 3AM: An Ambiguity-Aware Multi-Modal Machine Translation Dataset. [COLING, CCF B]
   - MDIT-Bench: Evaluating the Dual-Implicit Toxicity in Large Multimodal Models. [ACL 25, CCF A]
 
 # Intership Experience
