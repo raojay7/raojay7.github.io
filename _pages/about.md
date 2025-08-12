@@ -76,6 +76,7 @@ As steps towards this goal, my research focuses on
   - Where Does the Performance Improvement Come From? -A Reproducibility Concern about Image-Text Retrieval. [SIGIR 22, CCF A]
   - What is the limitation of multimodal llms? a deeper look into multimodal llms through prompt probing. [IPM 23, JCR Q1]
   - MDIT-Bench: Evaluating the Dual-Implicit Toxicity in Large Multimodal Models. [ACL 25, CCF A]
+
 # Intership Experience
 * 2025.01-2025.12: NLP Research Intern
   * [**Huawei Noah’s Ark Lab, China**]()
