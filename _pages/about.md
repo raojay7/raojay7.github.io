@@ -42,7 +42,7 @@ As steps towards this goal, my research focuses on
   **Jun Rao**, Xv Meng, Liang Ding, Shuhan Qi, Xuebo Liu, Min Zhang, Dacheng Tao
   
   *TMM 2023*
-- Dynamic contrastive distillation for image-text retrieval
+- Dynamic contrastive distillation for image-text retrieval 
   
   **Jun Rao**, Liang Ding, Shuhan Qi, Meng Fang, Yang Liu, Li Shen, Dacheng Tao
 
@@ -58,15 +58,23 @@ As steps towards this goal, my research focuses on
   
   *CIKM 2021*
 
-# Preprints
-- Exploring and Enhancing the Transfer of Distribution in Knowledge Distillation for Autoregressive Language Models. 2024.
-- Dynamic Sampling that Adapts: Iterative DPO for Self-Aware Mathematical Reasoning. 2025.
-
-# Co-author Papers
-- Curriculum consistency learning for conditional sentence generation. EMNLP 2024. 
-- AQuilt: Weaving Logic and Self-Inspection into Low-Cost, High-Relevance Data Synthesis for Specialist LLMs. EMNLP 2025.
-- REA-RL: Reflection-Aware Online Reinforcement Learning for Efficient Large Reasoning Models. Arxiv 2025.
-  
+# Topics of Interest
+- Training strategy
+  - CommonIT [EMNLP24]
+  - Curriculum consistency learning for conditional sentence generation. EMNLP 2024.
+- Data synthesis
+  - APT [ACL 25]
+  - AQuilt: Weaving Logic and Self-Inspection into Low-Cost, High-Relevance Data Synthesis for Specialist LLMs. EMNLP 2025.
+- Reasoning
+  - REA-RL: Reflection-Aware Online Reinforcement Learning for Efficient Large Reasoning Models. Arxiv 2025.
+  - Dynamic Sampling that Adapts: Iterative DPO for Self-Aware Mathematical Reasoning. 2025.
+- KD
+  - PESF-KD [TMM 23]
+  - DCD [TMM 23]
+  - Exploring and Enhancing the Transfer of Distribution in Knowledge Distillation for Autoregressive Language Models. 2024.
+- Evaluation
+  - What is the limitation of multimodal llms? a deeper look into multimodal llms through prompt probing. [IPM 23]
+  - MDIT-Bench: Evaluating the Dual-Implicit Toxicity in Large Multimodal Models. [ACL 25]
 # Intership Experience
 * 2025.01-2025.12: NLP Research Intern
   * [**Huawei Noah’s Ark Lab, China**]()
