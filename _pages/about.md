@@ -19,6 +19,12 @@ As steps towards this goal, my research focuses on
 
 # Publications
 
+- SeaPO: Strategic Error Amplification for Robust Preference Optimization of Large Language Models
+
+  **Jun Rao**, Yunjie Liao, Xuebo Liu, Lian Lian, Dong Jin, Shengjun Cheng, Jun Yu, and Min Zhang
+
+  *EMNLP 2025*
+  
 - APT: Improving Specialist LLM Performance with Weakness Case Acquisition and Iterative Preference Training
   
   **Jun Rao**, Zepeng Lin, Xuebo Liu, Lian Lian, Dong Jin, Shengjun Cheng, Jun Yu, and Min Zhang
