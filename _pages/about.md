@@ -66,10 +66,11 @@ As steps towards this goal, my research focuses on
 
 # Topics of Interest
 - Training strategy
-  - CommonIT [EMNLP24, CCF B]
+  - CommonIT [EMNLP 24, CCF B]
   - Curriculum consistency learning for conditional sentence generation. EMNLP 2024.
 - Data synthesis
   - APT [ACL 25, CCF A]
+  - SeaPO [EMNLP 25, CCF B]
   - AQuilt: Weaving Logic and Self-Inspection into Low-Cost, High-Relevance Data Synthesis for Specialist LLMs. EMNLP 2025.
 - Reasoning
   - REA-RL: Reflection-Aware Online Reinforcement Learning for Efficient Large Reasoning Models. 2025.
