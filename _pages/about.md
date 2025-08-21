@@ -21,7 +21,7 @@ As steps towards this goal, my research focuses on
 
 - SeaPO: Strategic Error Amplification for Robust Preference Optimization of Large Language Models
 
-  **Jun Rao**, Yunjie Liao, Xuebo Liu, Lian Lian, Dong Jin, Shengjun Cheng, Jun Yu, and Min Zhang
+  **Jun Rao**, Yunjie Liao, Xuebo Liu, Zepeng Lin, Lian Lian, Dong Jin, Shengjun Cheng, Jun Yu, and Min Zhang
 
   *Findings of EMNLP 2025*
   
