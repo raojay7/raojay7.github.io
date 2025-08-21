@@ -8,14 +8,20 @@ author_profile: true
 (# indicates equal contribution)
 
 ## 2025
+*  SeaPO: Strategic Error Amplification for Robust Preference Optimization of Large Language Models<br>
+  **Jun Rao**, Yunjie Liao, Xuebo Liu, Zepeng Lin, Lian Lian, Dong Jin, Shengjun Cheng, Jun Yu, Min Zhang<br>
+  *in Proc. of **EMNLP 2025 (Findings)***   
 
 * APT: Improving Specialist LLM Performance with Weakness Case Acquisition and Iterative Preference Training       
   **Jun Rao**, Zepeng Lin, Xuebo Liu, Lian Lian, Dong Jin, Shengjun Cheng, Jun Yu, Min Zhang<br> 
-  *in Proc. of **ACL 2025 (Findings)***   
+  *in Proc. of **ACL 2025 (Findings)***
+  
 * Orchestrating Prompt Expertise: Enhancing Knowledge Distillation via Expert-Guided Tuning<br>
   Xv Meng#, **Jun Rao#**, Shuhan Qi, Xuebo Liu, Lei Wang, Min Zhang, Xuan Wang<br>
   *in **TALLIP 2025***   
-  
+*  AQuilt: Weaving Logic and Self-Inspection into Low-Cost, High-Relevance Data Synthesis for Specialist LLMs<br>
+  Xiaopeng Ke, Hexuan Deng, Xuebo Liu, **Jun Rao**, Zhenxi Song, Jun Yu, Min Zhang<br>
+  *in Proc. of **EMNLP 2025***   
 
 ## 2024
 
