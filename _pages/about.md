@@ -65,6 +65,8 @@ As steps towards this goal, my research focuses on
   *CIKM 2021*
 
 # Topics of Interest
+- Survey Project
+  - Awesome-LLMs-Data-AI [https://github.com/raojay7/Awesome-LLMs-Data-AI/tree/main] 
 - Training strategy
   - CommonIT [EMNLP 24, CCF B]
   - Curriculum consistency learning for conditional sentence generation. EMNLP 2024.
