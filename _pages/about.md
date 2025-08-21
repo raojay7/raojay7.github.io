@@ -23,7 +23,7 @@ As steps towards this goal, my research focuses on
 
   **Jun Rao**, Yunjie Liao, Xuebo Liu, Lian Lian, Dong Jin, Shengjun Cheng, Jun Yu, and Min Zhang
 
-  *EMNLP 2025*
+  *Findings of EMNLP 2025*
   
 - APT: Improving Specialist LLM Performance with Weakness Case Acquisition and Iterative Preference Training
   
