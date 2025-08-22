@@ -66,7 +66,7 @@ As steps towards this goal, my research focuses on
 
 # Topics of Interest
 - Survey Project
-  - Awesome-LLMs-Data-AI [https://github.com/raojay7/Awesome-LLMs-Data-AI/tree/main] 
+  - Awesome-LLMs-Data-AI (A Survey on Data-Centric LLMs: From Creation to Application) [https://github.com/raojay7/Awesome-LLMs-Data-AI/tree/main] 
 - Training Strategy
   - CommonIT [EMNLP 24, CCF B]
   - Curriculum consistency learning for conditional sentence generation. EMNLP 2024.
