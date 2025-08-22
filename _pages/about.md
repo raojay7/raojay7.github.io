@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 I am Jun Rao, a third-year Ph.D. candidate at the School of Computer Science and Technology, Harbin Institute of Technology (Shenzhen), co-advised by [Min Zhang](https://zhangmin-nlp-ai.github.io/) and [Xuebo Liu](https://sunbowliu.github.io/).
-I published several papers at top conferences and international journals (ACM/IEEE Trans), including ACL, EMNLP, SIGIR, MM, TMM, CIKM, and IPM. I have a **strong preference** for methods that are **simple, intuitve and fun**.
+I published several papers at top conferences and international journals (ACM/IEEE Trans), including ACL, EMNLP, SIGIR, MM, CIKM, TALLIP, IPM, ToMM, and TMM. I have a **strong preference** for methods that are **simple, intuitve and fun**.
 My long-term research goal is to build socially intelligent embodied agents with the ability to perceive and engage in **multimodal** human communication. 
 As steps towards this goal, my research focuses on 
 
@@ -67,10 +67,10 @@ As steps towards this goal, my research focuses on
 # Topics of Interest
 - Survey Project
   - Awesome-LLMs-Data-AI [https://github.com/raojay7/Awesome-LLMs-Data-AI/tree/main] 
-- Training strategy
+- Training Strategy
   - CommonIT [EMNLP 24, CCF B]
   - Curriculum consistency learning for conditional sentence generation. EMNLP 2024.
-- Data synthesis
+- Data Synthesis
   - APT [ACL 25, CCF A]
   - SeaPO [EMNLP 25, CCF B]
   - AQuilt: Weaving Logic and Self-Inspection into Low-Cost, High-Relevance Data Synthesis for Specialist LLMs. EMNLP 2025.
@@ -93,14 +93,17 @@ As steps towards this goal, my research focuses on
   * [**Huawei Noah’s Ark Lab, China**]()
   * Main Work: Focus on LLMs and Math Reasoning.
   * Supervisor: Dr. [Xiaojun Meng](https://scholar.google.com.sg/citations?hl=en&user=t4n9MqkAAAAJ&view_op=list_works&sortby=pubdate)
+  * Academic Outputs: Submitted\*3
 * 2024.01-2024.12: NLP Research Intern
   * [**Huawei Cloud Computing Technologies Co., Ltd., China**]()
   * Main Work: Focus on Specialist LLMs.
   * Supervisor: Dr. [Lian Lian]()
+  * Academic Outputs: ACL 2025, EMNLP 2024, EMNLP 2025
 * 2021.11-2022.04: NLP Research Intern
   * [**JD EXPLORE ACADEMY, China**]()
   * Main Work: Focus on Multimodal Models.
   * Supervisor: Dr. [Liang Ding](https://scholar.google.com.hk/citations?hl=zh-CN&user=lFCLvOAAAAAJ&view_op=list_works&sortby=pubdate)
+  * Academic Outputs: SIGIR 2022, TMM\*2
 
 
 # Personal information
