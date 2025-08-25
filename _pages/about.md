@@ -23,13 +23,13 @@ As steps towards this goal, my research focuses on
 
   **Jun Rao**, Yunjie Liao, Xuebo Liu, Zepeng Lin, Lian Lian, Dong Jin, Shengjun Cheng, Jun Yu, and Min Zhang
 
-  *Findings of EMNLP 2025*
+  *EMNLP 2025 (Findings)*
   
 - APT: Improving Specialist LLM Performance with Weakness Case Acquisition and Iterative Preference Training
   
   **Jun Rao**, Zepeng Lin, Xuebo Liu, Lian Lian, Dong Jin, Shengjun Cheng, Jun Yu, and Min Zhang
 
-  *Findings of ACL 2025*
+  *ACL 2025 (Findings)*
 
   
 - CommonIT: Commonality-Aware Instruction Tuning for Large Language Models via Data Partitions
