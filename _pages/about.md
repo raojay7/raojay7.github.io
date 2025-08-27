@@ -93,17 +93,17 @@ As steps towards this goal, my research focuses on
 # Intership Experience
 * 2025.01-2025.12: NLP Research Intern
   * [**Huawei Noah’s Ark Lab, China**]()
-  * Main Work: Focus on LLMs and Math Reasoning.
+  * Main Work: Data of LLMs and Math Reasoning.
   * Supervisor: Dr. [Xiaojun Meng](https://scholar.google.com.sg/citations?hl=en&user=t4n9MqkAAAAJ&view_op=list_works&sortby=pubdate)
   * Academic Outputs: Submitted\*3
 * 2024.01-2024.12: NLP Research Intern
   * [**Huawei Cloud Computing Technologies Co., Ltd., China**]()
-  * Main Work: Focus on Specialist LLMs.
+  * Main Work: Specialist LLMs.
   * Supervisor: Dr. [Lian Lian]()
   * Academic Outputs: ACL 2025, EMNLP 2024, EMNLP 2025
 * 2021.11-2022.04: NLP Research Intern
   * [**JD EXPLORE ACADEMY, China**]()
-  * Main Work: Focus on Multimodal Models.
+  * Main Work: Multimodal Models and Image-Text Retrieval.
   * Supervisor: Dr. [Liang Ding](https://scholar.google.com.hk/citations?hl=zh-CN&user=lFCLvOAAAAAJ&view_op=list_works&sortby=pubdate)
   * Academic Outputs: SIGIR 2022, TMM\*2
 
