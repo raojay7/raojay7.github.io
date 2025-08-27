@@ -37,17 +37,19 @@ As steps towards this goal, my research focuses on
   **Jun Rao**, Xuebo Liu, Lian Lian, Cheng Shengjun, Yunjie Liao, and Min Zhang
 
   *EMNLP 2024*
+  
+- Parameter-efficient and student-friendly knowledge distillation
+  
+  **Jun Rao**, Xv Meng, Liang Ding, Shuhan Qi, Xuebo Liu, Min Zhang, Dacheng Tao
+  
+  *TMM 2024*
 
 - What is the limitation of multimodal llms? a deeper look into multimodal llms through prompt probing
   
   Shuhan Qi, Zhengying Cao, **Jun Rao***, Lei Wang, Jing Xiao, Xuan Wang
   
   *IPM 2023, Corresponding Author*
-- Parameter-efficient and student-friendly knowledge distillation
-  
-  **Jun Rao**, Xv Meng, Liang Ding, Shuhan Qi, Xuebo Liu, Min Zhang, Dacheng Tao
-  
-  *TMM 2023*
+
 - Dynamic contrastive distillation for image-text retrieval 
   
   **Jun Rao**, Liang Ding, Shuhan Qi, Meng Fang, Yang Liu, Li Shen, Dacheng Tao
