@@ -27,7 +27,7 @@ As steps towards this goal, my research focuses on
   
 - APT: Improving Specialist LLM Performance with Weakness Case Acquisition and Iterative Preference Training
   
-  **Jun Rao**, Zepeng Lin, Xuebo Liu, Lian Lian, Dong Jin, Shengjun Cheng, Jun Yu, and Min Zhang
+  **Jun Rao**, Zepeng Lin, Xuebo Liu, Xiaopeng Ke, Lian Lian, Dong Jin, Shengjun Cheng, Jun Yu, and Min Zhang
 
   *ACL 2025 (Findings)*
 
