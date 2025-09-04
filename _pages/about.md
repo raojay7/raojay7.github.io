@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 I am Jun Rao, a third-year Ph.D. candidate at the School of Computer Science and Technology, Harbin Institute of Technology (Shenzhen), co-advised by [Min Zhang](https://zhangmin-nlp-ai.github.io/) and [Xuebo Liu](https://sunbowliu.github.io/).
-I published several papers at top conferences and international journals (ACM/IEEE Trans), including ACL, EMNLP, SIGIR, MM, CIKM, TALLIP, IPM, ToMM, and TMM. I have a **strong preference** for methods that are **simple, intuitve and fun**.
+I published over 20 papers at top conferences and international journals (ACM/IEEE Trans), including ACL, EMNLP, SIGIR, MM, CIKM, TALLIP, IPM, ToMM, and TMM. I have a **strong preference** for methods that are **simple, intuitve and fun**.
 My long-term research goal is to build socially intelligent embodied agents with the ability to perceive and engage in **multimodal** human communication. 
 As steps towards this goal, my research focuses on 
 
