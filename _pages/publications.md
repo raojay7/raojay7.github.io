@@ -29,11 +29,7 @@ author_profile: true
 * CommonIT: Commonality-Aware Instruction Tuning for Large Language Models via Data Partitions<br>
   **Jun Rao**, Xuebo Liu, Lian Lian, Cheng Shengjun, Yunjie Liao, Min Zhang <br>
   *in Proc. of **EMNLP 2024***
-  
-* Parameter-efficient and student-friendly knowledge distillation<br>
-  **Jun Rao**, Xv Meng, Liang Ding, Shuhan Qi, Xuebo Liu, Min Zhang, Dacheng Tao <br>
-  *in **TMM 2024***
-  
+    
 * Harnessing the Power of Prompt Experts: Efficient Knowledge Distillation for Enhanced Language Understanding  
   Xv Meng#, **Jun Rao#**, Shuhan Qi, Lei Wang, Jing Xiao, Xuan Wang <br>
   *in Proc. of **ECML-PKDD 2024***
@@ -43,6 +39,10 @@ author_profile: true
   *in Proc. of **EMNLP 2024***
 
 ## 2023
+
+* Parameter-efficient and student-friendly knowledge distillation<br>
+  **Jun Rao**, Xv Meng, Liang Ding, Shuhan Qi, Xuebo Liu, Min Zhang, Dacheng Tao <br>
+  *in **TMM 2023***
 
 * Finetuning Language Models for Multimodal Question Answering<br>
   Xin Zhang, Wen Xie, Ziqi Dai, **Jun Rao**, Haokun Wen, Xuan Luo, Meishan Zhang, Min Zhang <br>
