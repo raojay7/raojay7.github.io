@@ -42,7 +42,7 @@ As steps towards this goal, my research focuses on
   
   **Jun Rao**, Xv Meng, Liang Ding, Shuhan Qi, Xuebo Liu, Min Zhang, Dacheng Tao
   
-  *TMM 2024*
+  *TMM 2023*
 
 - What is the limitation of multimodal llms? a deeper look into multimodal llms through prompt probing
   
@@ -80,7 +80,7 @@ As steps towards this goal, my research focuses on
   - REA-RL: Reflection-Aware Online Reinforcement Learning for Efficient Large Reasoning Models. 2025.
   - Dynamic Sampling that Adapts: Iterative DPO for Self-Aware Mathematical Reasoning. 2025.
 - Knowledge Distillation
-  - PESF-KD [TMM 24, JCR Q1]
+  - PESF-KD [TMM 23, JCR Q1]
   - DCD [TMM 23, JCR Q1]
   - Exploring and Enhancing the Transfer of Distribution in Knowledge Distillation for Autoregressive Language Models. 2024.
 - Evaluation
