@@ -16,9 +16,6 @@ author_profile: true
   **Jun Rao**, Zepeng Lin, Xuebo Liu, Xiaopeng Ke, Lian Lian, Dong Jin, Shengjun Cheng, Jun Yu, Min Zhang<br> 
   *in Proc. of **ACL 2025 (Findings)***
   
-* Exploring and Enhancing the Transfer of Distribution in Knowledge Distillation for Autoregressive Language Models<br>
-  **Jun Rao**, Xuebo Liu, Zepeng Lin, Liang Ding, Jing Li, Min Zhang<br> 
-  *in **Knowledge-Based Systems***
   
 * Orchestrating Prompt Expertise: Enhancing Knowledge Distillation via Expert-Guided Tuning<br>
   Xv Meng#, **Jun Rao#**, Shuhan Qi, Xuebo Liu, Lei Wang, Min Zhang, Xuan Wang<br>
