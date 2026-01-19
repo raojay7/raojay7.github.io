@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 (# indicates equal contribution)
+## 2026
+
+*  Exploring and Enhancing the Transfer of Distribution in Knowledge Distillation for Autoregressive Language Models<br>
+  **Jun Rao**, Xuebo Liu, Zepeng Lin, Liang Ding, Jing Li, and Min Zhang<br>
+  *in **Knowledge-Based Systems 2026*** 
 
 ## 2025
 *  SeaPO: Strategic Error Amplification for Robust Preference Optimization of Large Language Models<br>
