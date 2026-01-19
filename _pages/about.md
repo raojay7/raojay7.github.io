@@ -20,7 +20,9 @@ As steps towards this goal, my research focuses on
 # Publications
 
 - Exploring and Enhancing the Transfer of Distribution in Knowledge Distillation for Autoregressive Language Models
+  
   **Jun Rao**, Xuebo Liu, Zepeng Lin, Liang Ding, Jing Li, and Min Zhang
+  
   Knowledge-Based Systems 2026
 
 - SeaPO: Strategic Error Amplification for Robust Preference Optimization of Large Language Models
