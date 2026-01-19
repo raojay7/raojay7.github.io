@@ -19,6 +19,10 @@ As steps towards this goal, my research focuses on
 
 # Publications
 
+- Exploring and Enhancing the Transfer of Distribution in Knowledge Distillation for Autoregressive Language Models
+  **Jun Rao**, Xuebo Liu, Zepeng Lin, Liang Ding, Jing Li, and Min Zhang
+  Knowledge-Based Systems 2026
+
 - SeaPO: Strategic Error Amplification for Robust Preference Optimization of Large Language Models
 
   **Jun Rao**, Yunjie Liao, Xuebo Liu, Zepeng Lin, Lian Lian, Dong Jin, Shengjun Cheng, Jun Yu, and Min Zhang
@@ -82,6 +86,7 @@ As steps towards this goal, my research focuses on
 - Knowledge Distillation
   - PESF-KD [TMM 23, JCR Q1]
   - DCD [TMM 23, JCR Q1]
+  - OKD [KBS 26, JCR Q1]
 - Evaluation
   - Where Does the Performance Improvement Come From? -A Reproducibility Concern about Image-Text Retrieval. [SIGIR 22, CCF A]
   - What is the limitation of multimodal llms? a deeper look into multimodal llms through prompt probing. [IPM 23, JCR Q1]
