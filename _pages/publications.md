@@ -8,6 +8,9 @@ author_profile: true
 (# indicates equal contribution)
 ## 2026
 
+* Dynamic Sampling that Adapts: Iterative DPO for Self-Aware Mathematical Reasoning<br>
+  **Jun Rao**, Xuebo Liu, Hexuan Deng, Zepeng Lin, Yu Zixiong, Jiansheng Wei, Xiaojun Meng, Min Zhang<br>
+  *in Proc. of **ACL 2026 (Findings)***
 *  Exploring and Enhancing the Transfer of Distribution in Knowledge Distillation for Autoregressive Language Models<br>
   **Jun Rao**, Xuebo Liu, Zepeng Lin, Liang Ding, Jing Li, and Min Zhang<br>
   *in **Knowledge-Based Systems 2026*** 
@@ -43,12 +46,13 @@ author_profile: true
 * Curriculum Consistency Learning for Conditional Sentence Generation<br>
   Liangxin Liu, Xuebo Liu, Lian Lian, Shengjun Cheng, **Jun Rao**, Tengfei Yu, Hexuan Deng, Min Zhang <br>
   *in Proc. of **EMNLP 2024***
+  
+* Parameter-efficient and student-friendly knowledge distillation<br>
+  **Jun Rao**, Xv Meng, Liang Ding, Shuhan Qi, Xuebo Liu, Min Zhang, Dacheng Tao <br>
+  *in **TMM 2024***
 
 ## 2023
 
-* Parameter-efficient and student-friendly knowledge distillation<br>
-  **Jun Rao**, Xv Meng, Liang Ding, Shuhan Qi, Xuebo Liu, Min Zhang, Dacheng Tao <br>
-  *in **TMM 2023***
 
 * Finetuning Language Models for Multimodal Question Answering<br>
   Xin Zhang, Wen Xie, Ziqi Dai, **Jun Rao**, Haokun Wen, Xuan Luo, Meishan Zhang, Min Zhang <br>
