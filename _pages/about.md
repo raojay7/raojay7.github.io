@@ -19,6 +19,12 @@ As steps towards this goal, my research focuses on
 
 # Publications
 
+- Dynamic Sampling that Adapts: Iterative DPO for Self-Aware Mathematical Reasoning
+
+  **Jun Rao**, Xuebo Liu, Hexuan Deng, Zepeng Lin, Yu Zixiong, Jiansheng Wei, Xiaojun Meng, Min Zhang
+ 
+  *ACL 2026 (Findings)* 
+
 - Exploring and Enhancing the Transfer of Distribution in Knowledge Distillation for Autoregressive Language Models
   
   **Jun Rao**, Xuebo Liu, Zepeng Lin, Liang Ding, Jing Li, and Min Zhang
@@ -84,7 +90,7 @@ As steps towards this goal, my research focuses on
   - AQuilt: Weaving Logic and Self-Inspection into Low-Cost, High-Relevance Data Synthesis for Specialist LLMs. EMNLP 2025.
 - Reasoning
   - REA-RL: Reflection-Aware Online Reinforcement Learning for Efficient Large Reasoning Models. 2025.
-  - Dynamic Sampling that Adapts: Iterative DPO for Self-Aware Mathematical Reasoning. 2025.
+  - SAI-DPO [ACL 26, CCF A] 
 - Knowledge Distillation
   - PESF-KD [TMM 23, JCR Q1]
   - DCD [TMM 23, JCR Q1]
@@ -101,7 +107,7 @@ As steps towards this goal, my research focuses on
   * [**Huawei Noah’s Ark Lab, China**]()
   * Main Work: Data of LLMs and Math Reasoning.
   * Supervisor: Dr. [Xiaojun Meng](https://scholar.google.com.sg/citations?hl=en&user=t4n9MqkAAAAJ&view_op=list_works&sortby=pubdate)
-  * Academic Outputs: Submitted\*3
+  * Academic Outputs: ACL 2026\*2
 * 2024.01-2024.12: NLP Research Intern
   * [**Huawei Cloud Computing Technologies Co., Ltd., China**]()
   * Main Work: Specialist LLMs.
